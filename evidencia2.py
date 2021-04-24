@@ -73,7 +73,7 @@ while True:
                 			while True:
                 				
                 				try:
-                					print('Dia')
+
                 					dia = int(input())
                 				except:
                 					print('Valor introducido no valido')
@@ -88,7 +88,7 @@ while True:
                 			while True:
                 				
                 				try:
-                					print('Mes')
+
                 					mes = int(input())
                 				except:
                 					print('Valor introducido no valido')
@@ -101,7 +101,6 @@ while True:
                 			while True:
                 				
                 				try:
-                					print('Año')
                 					anio = int(input())
                 				except:
                 					print('Valor introducido no valido')
